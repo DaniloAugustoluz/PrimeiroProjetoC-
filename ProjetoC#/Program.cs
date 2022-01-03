@@ -6,7 +6,7 @@ namespace ProjetoC_
     {
         static void Main(string[] args)
         {
-            int numeroV = 5;
+            int numeroV = 10;
 
             for(int i=0; i<numeroV; i++){
                 Console.WriteLine($"Bem vindo ao curso de .NET {i}");
