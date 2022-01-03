@@ -1,0 +1,16 @@
+c:\workspace\ProjetoC#Vscode\ProjetoC#\bin\Debug\net5.0\ProjetoC#.exe
+c:\workspace\ProjetoC#Vscode\ProjetoC#\bin\Debug\net5.0\ProjetoC#.deps.json
+c:\workspace\ProjetoC#Vscode\ProjetoC#\bin\Debug\net5.0\ProjetoC#.runtimeconfig.json
+c:\workspace\ProjetoC#Vscode\ProjetoC#\bin\Debug\net5.0\ProjetoC#.runtimeconfig.dev.json
+c:\workspace\ProjetoC#Vscode\ProjetoC#\bin\Debug\net5.0\ProjetoC#.dll
+c:\workspace\ProjetoC#Vscode\ProjetoC#\bin\Debug\net5.0\ref\ProjetoC#.dll
+c:\workspace\ProjetoC#Vscode\ProjetoC#\bin\Debug\net5.0\ProjetoC#.pdb
+c:\workspace\ProjetoC#Vscode\ProjetoC#\obj\Debug\net5.0\ProjetoC#.csprojAssemblyReference.cache
+c:\workspace\ProjetoC#Vscode\ProjetoC#\obj\Debug\net5.0\ProjetoC#.GeneratedMSBuildEditorConfig.editorconfig
+c:\workspace\ProjetoC#Vscode\ProjetoC#\obj\Debug\net5.0\ProjetoC#.AssemblyInfoInputs.cache
+c:\workspace\ProjetoC#Vscode\ProjetoC#\obj\Debug\net5.0\ProjetoC#.AssemblyInfo.cs
+c:\workspace\ProjetoC#Vscode\ProjetoC#\obj\Debug\net5.0\ProjetoC#.csproj.CoreCompileInputs.cache
+c:\workspace\ProjetoC#Vscode\ProjetoC#\obj\Debug\net5.0\ProjetoC#.dll
+c:\workspace\ProjetoC#Vscode\ProjetoC#\obj\Debug\net5.0\ref\ProjetoC#.dll
+c:\workspace\ProjetoC#Vscode\ProjetoC#\obj\Debug\net5.0\ProjetoC#.pdb
+c:\workspace\ProjetoC#Vscode\ProjetoC#\obj\Debug\net5.0\ProjetoC#.genruntimeconfig.cache
